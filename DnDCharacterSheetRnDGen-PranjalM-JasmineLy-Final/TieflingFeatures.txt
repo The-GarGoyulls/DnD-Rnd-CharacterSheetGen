@@ -1,0 +1,2 @@
+Darkvision: You can see in dim light within 60 ft in front of you as if it were bright light.  You can’t discern colour in darkness, only shades of grey.
+Hellish Resistance: You have resistance to fire damage

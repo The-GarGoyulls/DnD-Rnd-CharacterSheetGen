@@ -1,0 +1,17 @@
+Saturday November 7th 2020 - Pranjal 
+- added second tabbed pane for display 
+- changed names of many things 
+	- panels with prefix "pnl" and the sheet ones end in "Display"
+	- tabbed panes with prefix "tbp" 
+	- changed "pnlProficiencesAndEquipemnt" to "pnlProAndEq"
+	- changed the variable name of the "Randomize All" Button to "btnRNDALL"
+	- variable name of Character info Rnd button to "btnRNDCharacterInfo"
+	- variable name of Character Apperance Rnd button to "btnRNDLook"
+	- variable name of Character Spells Rnd button to "btnRNDSpells"
+	- variable name of Character Proficiences Rnd button to "btnRNDPro"
+	- variable name of Character Equimpent Rnd button to "btnRNDEq"
+	- named everything there
+-added the character sheets
+
+
+
